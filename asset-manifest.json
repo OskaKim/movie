@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/OskaKim.github.io/movie/static/css/main.e17389be.chunk.css",
-    "main.js": "/OskaKim.github.io/movie/static/js/main.78973e71.chunk.js",
-    "main.js.map": "/OskaKim.github.io/movie/static/js/main.78973e71.chunk.js.map",
-    "runtime-main.js": "/OskaKim.github.io/movie/static/js/runtime-main.f79db714.js",
-    "runtime-main.js.map": "/OskaKim.github.io/movie/static/js/runtime-main.f79db714.js.map",
-    "static/js/2.f772087c.chunk.js": "/OskaKim.github.io/movie/static/js/2.f772087c.chunk.js",
-    "static/js/2.f772087c.chunk.js.map": "/OskaKim.github.io/movie/static/js/2.f772087c.chunk.js.map",
-    "index.html": "/OskaKim.github.io/movie/index.html",
-    "static/css/main.e17389be.chunk.css.map": "/OskaKim.github.io/movie/static/css/main.e17389be.chunk.css.map",
-    "static/js/2.f772087c.chunk.js.LICENSE.txt": "/OskaKim.github.io/movie/static/js/2.f772087c.chunk.js.LICENSE.txt"
+    "main.css": "/movie/static/css/main.e17389be.chunk.css",
+    "main.js": "/movie/static/js/main.78973e71.chunk.js",
+    "main.js.map": "/movie/static/js/main.78973e71.chunk.js.map",
+    "runtime-main.js": "/movie/static/js/runtime-main.ee175c6b.js",
+    "runtime-main.js.map": "/movie/static/js/runtime-main.ee175c6b.js.map",
+    "static/js/2.f772087c.chunk.js": "/movie/static/js/2.f772087c.chunk.js",
+    "static/js/2.f772087c.chunk.js.map": "/movie/static/js/2.f772087c.chunk.js.map",
+    "index.html": "/movie/index.html",
+    "static/css/main.e17389be.chunk.css.map": "/movie/static/css/main.e17389be.chunk.css.map",
+    "static/js/2.f772087c.chunk.js.LICENSE.txt": "/movie/static/js/2.f772087c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f79db714.js",
+    "static/js/runtime-main.ee175c6b.js",
     "static/js/2.f772087c.chunk.js",
     "static/css/main.e17389be.chunk.css",
     "static/js/main.78973e71.chunk.js"
